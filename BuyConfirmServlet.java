@@ -43,7 +43,7 @@ public class BuyConfirmServlet extends HttpServlet {
 				cmd = "menu";
 				return;
 			}
-			
+			//tuika
 			//メール文、合計計算
 			String buyList = "";
 			int total = 0;
